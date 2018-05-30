@@ -6,7 +6,7 @@ The problem is, getting a permanent visa for staying in the U.S is very difficul
 In this project, we are observing different probabilities for different features and trying to analyze which features can help people more for acceptance in getting permanent visa.  
   
 ### Question:
-What are the qualities that lead to a higher chance of being accepted?  
+What are the qualities that lead to being accepted?  
   
 ### Dataset:  
 https://www.kaggle.com/jboysen/us-perm-visas/data  
